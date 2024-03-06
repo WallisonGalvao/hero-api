@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeroAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb00ba63efaa42bbc9228cfe882f72431eeb3d48")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeroAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeroAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

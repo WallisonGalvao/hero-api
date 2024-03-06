@@ -1,6 +1,8 @@
-﻿namespace HeroAPI.Data
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace HeroAPI.Data
 {
-    public class DataContext
+    public class DataContext : DbContext
     {
     }
 }
