@@ -62,3 +62,6 @@ C:\Projetos\Projetos\C#\HeroAPI\obj\Debug\net6.0\refint\HeroAPI.dll
 C:\Projetos\Projetos\C#\HeroAPI\obj\Debug\net6.0\HeroAPI.pdb
 C:\Projetos\Projetos\C#\HeroAPI\obj\Debug\net6.0\HeroAPI.genruntimeconfig.cache
 C:\Projetos\Projetos\C#\HeroAPI\obj\Debug\net6.0\ref\HeroAPI.dll
+C:\Projetos\Projetos\C#\hero-api\HeroAPI\obj\Debug\net6.0\HeroAPI.dll
+C:\Projetos\Projetos\C#\hero-api\HeroAPI\obj\Debug\net6.0\refint\HeroAPI.dll
+C:\Projetos\Projetos\C#\hero-api\HeroAPI\obj\Debug\net6.0\HeroAPI.pdb
